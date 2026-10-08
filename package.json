@@ -1,0 +1,9 @@
+{
+  "name": "arabic-word-checker",
+  "version": "1.0.0",
+  "description": "موقع بسيط لتمييز نوع الكلمة العربية: اسم (نكرة/معرفة) أو فعل أو حرف",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
